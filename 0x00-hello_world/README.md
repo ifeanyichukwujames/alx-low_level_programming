@@ -1,1 +1,1 @@
-6 sizes readme
+intel readme
