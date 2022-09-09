@@ -1,1 +1,1 @@
-4 put readme
+5 printf readme
