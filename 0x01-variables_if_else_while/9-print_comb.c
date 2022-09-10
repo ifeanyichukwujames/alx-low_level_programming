@@ -15,6 +15,7 @@ int main(void)
 		if ((i)!= 19)
 		{
 			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
