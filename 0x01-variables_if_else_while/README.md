@@ -1,1 +1,1 @@
-last digit readme
+print alpha
