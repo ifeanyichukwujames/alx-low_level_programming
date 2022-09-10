@@ -1,1 +1,1 @@
-3 p A
+4 print alpha
