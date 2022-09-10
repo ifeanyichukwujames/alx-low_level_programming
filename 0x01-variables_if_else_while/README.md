@@ -1,1 +1,1 @@
-4 print alpha
+print no
