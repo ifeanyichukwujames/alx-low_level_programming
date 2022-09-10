@@ -1,1 +1,1 @@
-print alpha
+3 p A
