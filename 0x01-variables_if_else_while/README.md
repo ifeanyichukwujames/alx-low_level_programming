@@ -1,1 +1,1 @@
-print no
+6 task
