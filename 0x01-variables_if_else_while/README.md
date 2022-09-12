@@ -1,1 +1,1 @@
-task 10
+print combo 3
