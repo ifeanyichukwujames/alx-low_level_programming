@@ -1,1 +1,1 @@
-print combo 3
+print combo 5
