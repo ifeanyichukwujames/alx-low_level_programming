@@ -13,6 +13,9 @@ int main(void)
 	_putchar('u');
 	_putchar('t');
 	_putchar('a');
+	_putchar('e');
+	_putchar('b');
+	_putchar('f');
 	_putchar('\n');
 	return (0);
 }
