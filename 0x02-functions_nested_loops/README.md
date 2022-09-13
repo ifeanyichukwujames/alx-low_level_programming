@@ -1,1 +1,1 @@
-putchar readme
+alphabet readme
