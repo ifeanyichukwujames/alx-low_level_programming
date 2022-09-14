@@ -1,1 +1,1 @@
-alpha x10
+is lower
