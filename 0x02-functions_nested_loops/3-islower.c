@@ -6,12 +6,11 @@
  *
  * @c: character to compare
  *
- * Return: Always return 0
+ * Return: 1 if true, 0 if false
  *
  */
 
-int _islower(int c);
-
+int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
 	{
