@@ -1,15 +1,9 @@
 #include <stdio.h>
 
-/**
- * main - Entry point
- *
- * Return: void
- */
-
 int main(void)
 {
 int n;
-int a[5];
+int a[2];
 int *p;
 
 a[2] = 1024;
